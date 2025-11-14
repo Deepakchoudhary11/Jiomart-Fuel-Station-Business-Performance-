@@ -23,6 +23,7 @@ This table contains operational and financial metrics for the fuel station busin
 >Stable cost management maintains net profit margin around 25–30%.
 
 📊 Dashboard Description (Professional Summary)
+Tableau Link https://public.tableau.com/views/JioMartFuelStation/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 This dashboard provides a comprehensive performance overview of two business units — JioMart (Retail) and Fuel Stations — by analyzing their monthly sales, revenue, growth trends, profit margins, and operational expenses such as maintenance.
 The dashboard is designed to offer quick insights through KPIs, bar charts, and line charts, enabling management to track performance, compare business units, and understand monthly patterns.
 
